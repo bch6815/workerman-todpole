@@ -14,7 +14,7 @@
 
 /**
  * 主逻辑
- * 主要是处理 onMessage onClose 三个方法
+ * 主要是处理 onConnect onMessage onClose 三个方法
  */
 
 use \GatewayWorker\Lib\Gateway;
